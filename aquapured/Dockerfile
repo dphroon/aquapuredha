@@ -2,4 +2,5 @@
  FROM balenalib/raspberry-pi-python as base
  COPY . .
  RUN pip install python-benedict
- CMD ["./aquapured/aquapured/run.sh"]
+ CMD ["ls"]
+ #CMD ["./aquapured/aquapured/run.sh"]
