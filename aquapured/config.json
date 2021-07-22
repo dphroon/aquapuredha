@@ -1,5 +1,5 @@
 {
-    "name": "AquapureD",
+	"name": "AquapureD",
 	"version": "0.0.2",
 	"slug": "aquapured",
 	"description": "Daemon for serial control of SWG pool pump",
