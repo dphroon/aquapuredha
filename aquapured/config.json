@@ -4,6 +4,7 @@
 	"slug": "aquapured",
 	"description": "Daemon for serial control of SWG pool pump",
 	"startup": "application",
+	"url": "https://github.com/dphroon/aquapuredha",
 	"usb": true,
 	"uart": true,
 	"host_network": true,
