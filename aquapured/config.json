@@ -11,6 +11,12 @@
 	"boot": "auto",
 	"ingress": "true",
 	"ingress_port": 80,
+	"ports": {
+    		"80/tcp": 80
+  	},
+  	"ports_description": {
+    		"80/tcp": "Web interface"
+  	},
 	"options": {
 		"AQUACONTROLD": {
 			"SWG_DEVICE_ID": "0x50",
